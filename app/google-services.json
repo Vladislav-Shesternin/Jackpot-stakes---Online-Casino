@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280288991210",
+    "project_id": "jackpot-stakes---online-casino",
+    "storage_bucket": "jackpot-stakes---online-casino.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280288991210:android:38e43bc51f9a02b7870493",
+        "android_client_info": {
+          "package_name": "spintimez.slot.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280288991210-mglov2s9df0j2qhmu1ou1v2b1t1ef8vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz7Syeh0SmcOvYwsMJzSmeFjR7TtBVm-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280288991210-mglov2s9df0j2qhmu1ou1v2b1t1ef8vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

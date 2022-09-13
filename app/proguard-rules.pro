@@ -1,0 +1,2 @@
+-keep class com.appsflyer.** { *; }
+-keep class * extends android.webkit.WebChromeClient { *; }

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/nav_graph">
+
+    <fragment
+        android:id="@+id/gameFragment"
+        android:name="spintimez.slot.com.game.GameFragment"
+        android:label="GameFragment" />
+
+    <fragment
+        android:id="@+id/webViewFragment"
+        android:name="spintimez.slot.com.webView.WebViewFragment"
+        android:label="WebViewFragment"/>
+
+</navigation>
